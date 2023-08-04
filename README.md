@@ -1,4 +1,4 @@
-# Hotel-data-analysis
+# Hotel-Booking-Analysis
 
 **--Introduction--**
 
