@@ -68,18 +68,41 @@ Downloaded the hotel data from the Kaggle. The data cleaning and visualization i
 
 **City Hotel**											
 											
-1) In the month of December and January 2015 least number of bookings were made.		
-2) The mojority of the guests booked the meal BB (Bed and Breakfast)
-3) Compared to 2015 the bookings were reduced in 2016 and the highest market segment was Online TA.				
-4) Majority of the guests booked room A overall in three years.											
-5) About 42% of the bookings got cancelled in the year 2016.											
-6) Countries like UK, France and Portugal are the top 3 countries from which most of the bookings were done.					
-7) In the month of October 2015 highest number of bookings were made.
-8) The year 2017 started with an increase in the bookings but after June it gradually came down.				
-9) The ratio of the Children and Adults are 1:25 (approx).											
-10) The Average lead time is 5% more than the Resort Hotel.											
-11) Transient Customer_Type has the maximum number of bookings.
-12) The cancellation percentage in this hotel is greater than the Resort Hotel.	
+1) In the month of December and January 2015 least number of bookings were made.
+
+![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/20751fbf-9482-4229-a3b4-8b24d362544f)
+
+2) The mojority of the guests booked the meal BB (Bed and Breakfast).
+
+![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/44c565fd-28f2-4f40-b8b8-e6aeec5128a9)
+
+3) Compared to 2015 the bookings were reduced in 2016 and the highest market segment was Online TA.
+
+![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/e40847bf-35f6-4c75-bb05-d9bfa25de37b)
+  
+4) Majority of the guests booked room A overall in three years.
+  
+![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/02f507a4-6887-4bae-9cfa-dddc2fa83da5)
+	
+5) About 42% of the bookings got cancelled in the year 2016.										
+6) Countries like UK, France and Portugal are the top 3 countries from which most of the bookings were done.
+7) TA/TO distribution has the maximum number of bookings.
+
+![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/fc35ec41-6bf8-4d68-a45c-3b665ddcc921)
+
+8) In the month of October 2015 highest number of bookings were made.
+9) The year 2017 started with an increase in the bookings but after June it gradually came down.				
+10) The ratio of the Children and Adults are 1:25 (approx).										
+11) The Average lead time is 12% more than the Resort Hotel.
+
+![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/4aba5cd2-913c-4be4-aa73-fdbf2e3c87ca)
+
+12) Transient Customer_Type has the maximum number of bookings.
+
+![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/ccb4b603-ea54-455c-a278-bc36d79399ea)
+
+13) The cancellation percentage in this hotel is greater than the Resort Hotel.	
+
 
 **Solutions to improve the business**			
 						
@@ -103,6 +126,8 @@ Downloaded the hotel data from the Kaggle. The data cleaning and visualization i
 11) We can make a system of cancellation amount which the guests have to pay if the booking is cancelled.
 						
 12) And lastly we can optimize our inventory. For eg now the bookings are less so we can Charge premiums for not only suites and popular rooms but also for value-added features like larger rooms, a better view, preferred bed configurations, and attributes like balconies, fireplaces, wet bars, and pool access.
+
+**--Challenges Faced--**
 
 
 
