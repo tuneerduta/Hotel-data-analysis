@@ -33,75 +33,74 @@ Downloaded the hotel data from the Kaggle. The data cleaning and visualization i
 
 **Resort Hotel**									
 											
-1) In the month of November 2015 least number of bookings were made.									
+**1) In the month of November 2015 least number of bookings were made.**								
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/3456d710-1c1b-4179-a803-e33b40ca2fa1)
 
-2) The mojority of the guests booked the meal BB (Bed and Breakfast).									
-
+**2) The mojority of the guests booked the meal BB (Bed and Breakfast).**									
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/378f4162-7774-4b8e-8a2b-d7b3e1382ea7)
 
-3) Compared to 2015 the bookings were reduced in 2016 and the highest market segment was Online TA.			
+**3) Compared to 2015 the bookings were reduced in 2016 and the highest market segment was Online TA.**			
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/eea50bbd-4cae-4c3b-8119-0e54366c25ee)
 
-4) Majority of the guests booked room A overall in three years.										!
+**4) Majority of the guests booked room A overall in three years.**
 
  ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/8be9e621-202e-4a59-8a78-f684cbb4e2aa)
 
-5) About 28% of the bookings got cancelled in the year 2016.										
-6) Countries like UK, Spain and Portugal are the top 3 countries from which most of the bookings were done.
+**5) About 28% of the bookings got cancelled in the year 2016.**									
+**6) Countries like UK, Spain and Portugal are the top 3 countries from which most of the bookings were done.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/ac3b023f-163a-43d5-9265-3aa4d55961ff)
 
-7) In the month of March 2016 highest number of bookings were made.									
-8) There are 1030 total number of bookings in this hotel in these years.								
-9) There are 75% bookings done by the TA/TO distribution channel.
+**7) In the month of March 2016 highest number of bookings were made.**									
+**8) There are 1030 total number of bookings in this hotel in these years.**								
+**9) There are 75% bookings done by the TA/TO distribution channel.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/0fc9dc3c-e4ef-46c2-996e-c007ff68e1cf)
      
-10) In the year 2017 we can see the bookings are increasing month by month. So July has the max bookings.				
-11) Transient Customer_Type has the maximum number of bookings.
+**10) In the year 2017 we can see the bookings are increasing month by month. So July has the max bookings.**				
+**11) Transient Customer_Type has the maximum number of bookings.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/582da378-bb4b-4d0e-b8fb-3b516393fd53)
 
 
 **City Hotel**											
 											
-1) In the month of December and January 2015 least number of bookings were made.
+**1) In the month of December and January 2015 least number of bookings were made.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/20751fbf-9482-4229-a3b4-8b24d362544f)
 
-2) The mojority of the guests booked the meal BB (Bed and Breakfast).
+**2) The mojority of the guests booked the meal BB (Bed and Breakfast).**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/44c565fd-28f2-4f40-b8b8-e6aeec5128a9)
 
-3) Compared to 2015 the bookings were reduced in 2016 and the highest market segment was Online TA.
+**3) Compared to 2015 the bookings were reduced in 2016 and the highest market segment was Online TA.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/e40847bf-35f6-4c75-bb05-d9bfa25de37b)
   
-4) Majority of the guests booked room A overall in three years.
+**4) Majority of the guests booked room A overall in three years.**
   
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/02f507a4-6887-4bae-9cfa-dddc2fa83da5)
 	
-5) About 42% of the bookings got cancelled in the year 2016.										
+**5) About 42% of the bookings got cancelled in the year 2016.										
 6) Countries like UK, France and Portugal are the top 3 countries from which most of the bookings were done.
-7) TA/TO distribution has the maximum number of bookings.
+7) TA/TO distribution has the maximum number of bookings.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/fc35ec41-6bf8-4d68-a45c-3b665ddcc921)
 
-8) In the month of October 2015 highest number of bookings were made.
+**8) In the month of October 2015 highest number of bookings were made.
 9) The year 2017 started with an increase in the bookings but after June it gradually came down.				
 10) The ratio of the Children and Adults are 1:25 (approx).										
-11) The Average lead time is 12% more than the Resort Hotel.
+11) The Average lead time is 12% more than the Resort Hotel.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/4aba5cd2-913c-4be4-aa73-fdbf2e3c87ca)
 
-12) Transient Customer_Type has the maximum number of bookings.
+**12) Transient Customer_Type has the maximum number of bookings.**
 
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/ccb4b603-ea54-455c-a278-bc36d79399ea)
 
-13) The cancellation percentage in this hotel is greater than the Resort Hotel.	
+**13) The cancellation percentage in this hotel is greater than the Resort Hotel.**	
 
 
 **Solutions to improve the business**			
