@@ -31,7 +31,7 @@ Downloaded the hotel data from the Kaggle. The data cleaning and visualization i
 
 **3) Insights and Improvements provided based on the Dashboard.**
 
-**Resort Hotel**									
+# **Resort Hotel**									
 											
 **1) In the month of November 2015 least number of bookings were made.**								
 
@@ -65,7 +65,7 @@ Downloaded the hotel data from the Kaggle. The data cleaning and visualization i
 ![image](https://github.com/tuneerdutta/Hotel-data-analysis/assets/131517578/582da378-bb4b-4d0e-b8fb-3b516393fd53)
 
 
-**City Hotel**											
+# **City Hotel**											
 											
 **1) In the month of December and January 2015 least number of bookings were made.**
 
