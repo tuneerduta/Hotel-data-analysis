@@ -126,9 +126,14 @@ Downloaded the hotel data from the Kaggle. The data cleaning and visualization i
 						
 12) And lastly we can optimize our inventory. For eg now the bookings are less so we can Charge premiums for not only suites and popular rooms but also for value-added features like larger rooms, a better view, preferred bed configurations, and attributes like balconies, fireplaces, wet bars, and pool access.
 
+
 **--Challenges Faced--**
 
+**1) Data Cleaning -** I phased the major problem in the data cleaning part with Power Query. Because the data was too uncleaned when it was donloaded.
 
+**2) Insights and Improvements -** To study the insights deeply and visualize the charts and suggest good Improvements.
+
+**3) Sentiment Analysis-** Analyzing hotel reviews and feedback to gauge sentiment and identify areas for improvement became challenging, especially with the varying nature of seasons and population and places.
 
   
 
