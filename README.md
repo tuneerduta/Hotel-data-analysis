@@ -10,13 +10,13 @@ Downloaded the hotel data from the Kaggle. The data cleaning and visualization i
 
 **--Data Description--**
 
-  a) Raw_Data - This folder contains all those excel files which were downloaded from kaggle. It contains 3 sets of data from 3 seperate years. 
+  **a) Raw_Data -** This folder contains all those excel files which were downloaded from kaggle. It contains 3 sets of data from 3 seperate years. 
 
-  b) Images - This folder contains the image of the Dashboard.
+  **b) Images -** This folder contains the image of the Dashboard.
 
-  c) Dashboard - This folder contains the Dashboard which is done in Excel.
+  **c) Dashboard -** This folder contains the Dashboard which is done in Excel.
 
-  d) Insights & Improvements - This folder contains the Insights got from the Dashboard and the Improvements thats should be taken in the two 
+  **d) Insights & Improvements -** This folder contains the Insights got from the Dashboard and the Improvements thats should be taken in the two 
                                Hotels to increase the number of bookings.
 
 **--Overview--**
